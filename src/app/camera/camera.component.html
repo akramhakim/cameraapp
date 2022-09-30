@@ -1,0 +1,4 @@
+<h2 class="title">Homepage of Camera App</h2>
+
+<input type="file" accept="image/*" capture="environment" #picker style="display: none;" (change)="onCameraActivated($event)">
+<button class="btn-camera" (click)="picker.click()">Open Camera</button>

@@ -1,0 +1,9 @@
+.title {
+  color: black;
+}
+
+.btn-camera {
+    background-color: #008CBA;
+    color: white;
+    border-radius: 15px solid #008CBA;
+}
