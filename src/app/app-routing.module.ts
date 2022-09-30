@@ -4,7 +4,7 @@ import { CameraComponent } from './camera/camera.component';
 
 
 const routes: Routes = [
-  { path: 'home', component: CameraComponent}
+  { path: '', component: CameraComponent}
 ];
 
 @NgModule({
